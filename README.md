@@ -39,36 +39,6 @@
         "departmentName": "EEE",
         "departmentAddress": "Chennai",
         "departmentCode": "IT-34"
-    },
-    {
-        "departmentId": 6,
-        "departmentName": "IT",
-        "departmentAddress": "Chennai",
-        "departmentCode": "IT-34"
-    },
-    {
-        "departmentId": 7,
-        "departmentName": "CSE",
-        "departmentAddress": "Chennai",
-        "departmentCode": "IT-34"
-    },
-    {
-        "departmentId": 8,
-        "departmentName": "MECH",
-        "departmentAddress": "Chennai",
-        "departmentCode": "IT-34"
-    },
-    {
-        "departmentId": 9,
-        "departmentName": "ECE",
-        "departmentAddress": "Chennai",
-        "departmentCode": "IT-34"
-    },
-    {
-        "departmentId": 10,
-        "departmentName": "EEE",
-        "departmentAddress": "Chennai",
-        "departmentCode": "IT-34"
     }
 ]
 ```
